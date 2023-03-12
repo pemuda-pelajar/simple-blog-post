@@ -1,2 +1,2 @@
 test
-update lagi
+update lagi 2
